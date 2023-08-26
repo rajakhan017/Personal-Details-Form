@@ -69,7 +69,7 @@ Form elements (input, label, select/option, textarea, fieldset, legend,)
 - button
 ## Hosted Link
 
-You can access the live preview of the webpage [here]https://rajakhan017.github.io/Personal-Details-Form/
+You can access the live preview of the webpage [here] https://rajakhan017.github.io/Personal-Form/
 
 
 

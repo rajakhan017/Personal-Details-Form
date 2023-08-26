@@ -1,4 +1,4 @@
-# Personal-Details-Form
+# Personal-Form
 This repository contains a simple HTML form that showcases different form elements for collecting personal information. The form is designed using HTML without any external styles or scripts.
 ## Form Contents
 
